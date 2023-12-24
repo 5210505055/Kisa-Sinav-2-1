@@ -27,3 +27,8 @@ Display arabirimini uygular.
 Bir ev sahibi ile ilişkilendirilmiş bir kiracıyı temsil eder.
 Kiracının adı, soyadı ve ilişkilendirilmiş ev sahibi alanlarını içerir.
 Bilgileri görüntülemek için bir yöntem sağlar.
+
+## Ekran Goruntusu
+![Alt Text](https://github.com/5210505055/Kisa-Sinav-2-1/blob/main/Screenshot%20(67).png)
+
+
